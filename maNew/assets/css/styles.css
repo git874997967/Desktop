@@ -12,6 +12,9 @@ html {
 body {
   margin: 0;
 }
+.no-dash{
+  list-style-type: none;
+}
 article,
 aside,
 details,
